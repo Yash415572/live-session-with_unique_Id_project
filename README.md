@@ -51,3 +51,8 @@ Install dependencies npm install
 Start frontend npm run dev
 
 App runs on → http://localhost:3000
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-08 150219" src="https://github.com/user-attachments/assets/5cc44589-eb88-4b31-b44d-988f7ef0d825" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-08 150234" src="https://github.com/user-attachments/assets/a5a673f0-3558-4bf0-bedd-48af446f98b9" />
+
+
